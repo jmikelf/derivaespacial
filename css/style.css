@@ -1,5 +1,5 @@
 body {
-  padding: 3rem;
+  padding: 1rem;
   line-height: 1.314;
 }
 
@@ -56,7 +56,7 @@ body {
   height: 100 .container;
 }
 .container * {
-  filter: blur(3px);
+  filter: blur(1px);
   animation: 5s distort 6s infinite alternate, blur 30ms infinite, flick 50ms infinite, jump 50ms infinite;
 }
 
